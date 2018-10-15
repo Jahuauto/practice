@@ -1,6 +1,10 @@
-
+------
 feature 1
 branch - 123
 feature 22
+<<<<<<< HEAD
 ----
 feature 2222
+=======
+---/// feature ]]]]]]
+>>>>>>> b232afab2ccd70b928b4b6fbe7d5638a9a7b75f3
