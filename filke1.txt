@@ -1,0 +1,14 @@
+----------
+init
+dev
+feature 1
+branch - 123
+{now linia feature}
+feature 2222
+{now linia feature}
+geature
+sdfsdfsd
+now linia dzisiaj
+&&&&&&&
+
+now linia dzisiaj  --- -
