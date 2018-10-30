@@ -2,3 +2,4 @@ nowy 2
 nowy 2
 sdfsdfsdf
 file 2 local
+********
