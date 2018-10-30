@@ -3,4 +3,4 @@ feature
 [locala feature]
 
 {feature branch}
-
+git.lab server
